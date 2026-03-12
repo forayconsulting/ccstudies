@@ -20,6 +20,7 @@ In Colossians 3:5-11, Paul commands believers to decisively put to death the sin
 | [01-ask-the-text-questions.md](01-ask-the-text-questions.md) | The four primary questions with all subordinate questions answered | Step 1: Ask the Text Questions |
 | [02-outline.md](02-outline.md) | Book-level and sentence-level syntactical outline with conjunction analysis | Step 2: Outline the Text |
 | [03-exegetical-resources.md](03-exegetical-resources.md) | Greek word studies, exegetical notes, questions, resource recommendations, and Ephesians parallel comparison | Step 3: Use Exegetical Resources |
+| [04-application.md](04-application.md) | Personal and corporate application grounded in the exegetical work | Application |
 
 ---
 
