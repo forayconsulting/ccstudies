@@ -24,6 +24,14 @@ This repository contains the full text of *Hermeneutics and Exegesis for Laypeop
 | `12-scripture-index.md` | Scripture Index |
 
 - **`Hermeneutics-Exegesis_Updated_Web.pdf`** — The original PDF source.
+- **`studies/`** — Bible studies conducted using the book's methodology:
+
+| Study | Passage | Focus |
+|---|---|---|
+| `colossians-3-1-4/` | Colossians 3:1-4 | The believer's heavenly orientation — identity in the risen Christ |
+| `colossians-3-5-11/` | Colossians 3:5-11 | Putting off the old self — sins of desire and speech |
+| `colossians-3-12-17/` | Colossians 3:12-17 | Putting on the new self — Christlike virtues and corporate worship |
+| `colossians-3-1-17/` | Colossians 3:1-17 | Unified application synthesizing findings from the three section studies |
 
 ## The Methodology
 

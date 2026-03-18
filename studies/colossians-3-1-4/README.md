@@ -18,3 +18,5 @@ This study follows the methodology from *Hermeneutics and Exegesis for Laypeople
 | `01-ask-the-text-questions.md` | Step 1 — The four primary questions with subordinate questions |
 | `02-outline.md` | Step 2 — Sentence-level outline with conjunction analysis |
 | `03-exegetical-resources.md` | Step 3 — Cross-references, word studies, and resource findings |
+| `04-guided-exploration.md` | Synthesis — Guided walkthrough integrating context, structure, cross-references, and theology |
+| `05-application.md` | Application — The four application questions answered for this passage |
