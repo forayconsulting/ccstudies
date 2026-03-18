@@ -8,9 +8,9 @@ A synthesized application of Colossians 3:1-17, drawing on the exegetical findin
 
 ## Purpose
 
-The individual studies of Colossians 3:1-4, 3:5-11, and 3:12-17 each worked through the full exegetical process: asking the text questions, outlining, and consulting exegetical resources. Each study also answered the four application questions for its own section.
+The individual studies of Colossians 3:1-4, 3:5-11, and 3:12-17 each worked through the full exegetical process: asking the text questions, outlining, and consulting exegetical resources.
 
-This document brings the full passage together for a unified application. Paul wrote these seventeen verses as a single, connected argument — three movements of one symphony. The application document treats them accordingly, tracing the argument's flow from heavenly orientation (vv. 1-4) through the decisive removal of the old self's vices (vv. 5-11) to the deliberate clothing of the new self in Christlike character and corporate worship (vv. 12-17).
+This document brings the full passage together for a unified application structured around Paul's three movements. Each movement contains exegetical observations that surface the logic driving the text, application drawn from that logic, and small-group discussion questions designed to press the text's claims into concrete life situations. The format is intended to be usable both for personal study and for group facilitation.
 
 ---
 
@@ -18,7 +18,7 @@ This document brings the full passage together for a unified application. Paul w
 
 | File | Content |
 |---|---|
-| [application.md](application.md) | Unified application: the four application questions answered across all three passage sections, with discussion questions |
+| [application.md](application.md) | Movement-by-movement application: exegetical observations, application, and small-group discussion questions for each section |
 
 ---
 
