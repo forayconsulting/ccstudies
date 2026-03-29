@@ -41,5 +41,6 @@ This study follows the methodology from *Hermeneutics and Exegesis for Laypeople
 |---|---|
 | `00-text.md` | Full text with immediate context |
 | `01-ask-the-text-questions.md` | Step 1 — The four primary questions with subordinate questions |
-| `02-outline.md` | Step 2 — Scene-level outline with conjunction and structural analysis |
-| `03-exegetical-resources.md` | Step 3 — Cross-references, word studies, and resource findings |
+| `02-outline.md` | Step 2 — Scene-level outline with structural and transitional analysis |
+| `03-exegetical-resources.md` | Step 3 — Hebrew word studies, cross-references, and resource findings |
+| `04-application.md` | Application — General application and young children (ages 3-5) activities |
