@@ -62,6 +62,7 @@ Reserve application until after exegesis. Derive application aligned with LHG he
 - **(B) What is my relationship to the original audience?**
 - **(C) What are the differences between my world and their world?**
 - **(D) Is my relationship to God different than theirs?**
+- **(E) Which of our modern sensibilities are at odds with this text? Which of them resonate with it? And why?**
 
 Detailed examples for each question: `book/05-asking-the-text-questions.md`
 

@@ -28,3 +28,4 @@
 - What is my relationship to the orginal audience?
 - What are the differences between my world and their world?
 - Is my relationship to God different than theirs?
+- Which of our modern sensibilities are at odds with this text? Which of them resonate with it? And why?
