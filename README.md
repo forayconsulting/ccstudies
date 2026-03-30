@@ -32,6 +32,8 @@ This repository contains the full text of *Hermeneutics and Exegesis for Laypeop
 | `colossians-3-5-11/` | Colossians 3:5-11 | Putting off the old self — sins of desire and speech |
 | `colossians-3-12-17/` | Colossians 3:12-17 | Putting on the new self — Christlike virtues and corporate worship |
 | `colossians-3-1-17/` | Colossians 3:1-17 | Unified application synthesizing findings from the three section studies |
+| `colossians-3_18-4_6/` | Colossians 3:18-4:6 | Christ's lordship applied — household code, work, prayer, and witness toward outsiders |
+| `ezra-1-3/` | Ezra 1-3 | God's faithfulness in the return from exile — decree, altar, and temple foundation |
 
 ## The Methodology
 
