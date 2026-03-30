@@ -14,6 +14,54 @@ Everything Paul has argued in Colossians funnels into this section. Christ's sup
 
 The application questions from the methodology have been answered in the exegetical study. What follows here builds on that foundation and presses the text into the places where we actually live.
 
+But before we walk through the movements of the passage, we need to address the question that every modern reader brings to the household code, whether they articulate it or not: *Why doesn't Paul just tell Christians to change the system?*
+
+---
+
+## Paul and the Structures He Didn't Dismantle
+
+Colossians 3:18-4:1 operates entirely within the existing authority structures of the first-century Roman household. Wives, husbands, children, fathers, slaves, masters — Paul addresses each one within their given social role. He does not command the abolition of slavery. He does not restructure the *paterfamilias* system. He does not call for a new political arrangement. He writes to people embedded in institutions he cannot — and does not attempt to — overthrow, and he tells them how to live faithfully *inside* those institutions.
+
+This bothers us. It should, at least a little. We live on the other side of centuries of Christian moral development in which the theological seeds Paul planted eventually bore fruit in the abolition of slavery, the expansion of human rights, and the recognition of the full dignity of every person. Looking backward through that history, it is tempting to wish Paul had said more — had condemned slavery outright, had commanded masters to free their slaves, had issued a manifesto for social transformation. Why didn't he?
+
+The honest answer, faithful to authorial intent and the LHG hermeneutic, requires us to take Paul on his own terms rather than ours.
+
+### Paul is a pastor, not a policy maker
+
+Paul is writing a letter to a small congregation meeting in someone's house in a declining city in the Lycus Valley. He is not writing legislation. He is not addressing the Roman Senate. He has no political leverage, and neither do his readers. The Colossian church was a tiny, vulnerable, socially marginal community with no capacity to restructure Roman law or the imperial economy. Commanding them to abolish slavery would have been like commanding them to rearrange the constellations — not wrong in principle, but completely disconnected from their actual situation. Paul writes to the people in front of him about what they can actually do: love a spouse, raise children well, work honestly, treat a slave with justice.
+
+This is not a failure of moral imagination. It is pastoral realism. Paul knows who he is talking to.
+
+### Paul transforms the experience of the system from the inside
+
+What Paul *does* do is far more subversive than it appears at first glance. He addresses subordinate parties — wives, children, slaves — directly, as moral agents capable of hearing and obeying God's Word. In the Greco-Roman household code tradition, only the *paterfamilias* was addressed; everyone else was an object to be managed. Paul treats them as subjects. He dignifies them.
+
+Then he turns to those in authority and limits them. Husbands must love and must not be bitter. Fathers must not exasperate. Masters must grant justice and fairness. In every case, authority is bounded, accountable, and servant-shaped. The person with power is told what he *owes*, not what he is *owed*. And every instruction is oriented around a Lord who outranks every earthly authority: "It is the Lord Christ whom you serve" (3:24b); "you too have a Master in heaven" (4:1).
+
+Paul does not rearrange the chairs. He changes the gravitational field in the room.
+
+### Paul plants principles incompatible with the system's survival
+
+Consider what Paul has already declared in this letter: "There is no distinction between Greek and Jew, circumcised and uncircumcised, barbarian, Scythian, slave and freeman, but Christ is all, and in all" (3:11). Consider what he tells slaves: you will receive "the reward of the inheritance" (3:24) — an inheritance no Roman slave could legally possess. Consider what he tells masters: God judges "without partiality" (3:25) — a direct assault on a social order built on the assumption that some lives are worth more than others. And consider what he writes in the letter traveling alongside this one: he asks Philemon to receive his returning slave Onesimus "no longer as a slave, but more than a slave, a beloved brother" (Phlm 16).
+
+These are not the words of a man content with the status quo. They are the words of a man who has introduced a set of convictions that cannot coexist with the institution of slavery indefinitely. Impartiality, inheritance, brotherhood — these ideas are time bombs planted at the foundation of the system. Paul does not light the fuse with a political command. He trusts the gospel to do its own work in its own time.
+
+### Paul's eschatological horizon matters
+
+Paul writes with an awareness that "the form of this world is passing away" (1 Cor 7:31). He expects Christ's return. This does not make him indifferent to justice — his commands to masters prove that — but it does shape his strategy. His priority is not reforming Rome's social architecture. His priority is forming a community that lives under Christ's lordship *now*, in whatever circumstances it finds itself, as a foretaste of the coming kingdom where every knee will bow and every wrong will be made right (3:24-25; Phil 2:10-11).
+
+This is not escapism. It is eschatological realism. Paul believes that the ultimate righting of all wrongs belongs to Christ, not to Caesar — and not to the church acting as a political pressure group. The church's job is to embody the kingdom, not to legislate it.
+
+### What this means for us
+
+We are not required to pretend Paul said things he didn't say. He did not call for abolition. He did not dismantle patriarchy. He did not issue a social justice manifesto. Reading those things into his text would violate the very hermeneutic we are committed to — the one that insists on authorial intent rather than reader-imposed meaning.
+
+But we are also not required to stop where Paul stopped. The theological principles Paul established — God's impartiality, the equal dignity of every person before Christ, the accountability of all authority to a heavenly Master, the inheritance of those the world considers worthless — these principles carried the church forward over centuries toward conclusions Paul's first readers could not yet have reached. The abolition of slavery, the recognition of women as full and equal image-bearers, the insistence on justice for the vulnerable — these are not departures from Paul's theology. They are the fruit of it.
+
+The hermeneutical question is not "Did Paul solve every social problem in his first letter to a small church?" The answer is obviously no. The question is: "Did Paul plant the right seeds, and did he orient the church toward the right Lord?" The answer to that question is also obvious.
+
+What Paul commands in Colossians 3:18-4:6 is not the final word on the structure of human society. It is the first word on how to live faithfully within whatever structure you find yourself in, under the lordship of Christ, while the seeds of the gospel do their slow and irreversible work.
+
 ---
 
 ## Movement 1: Marriage — Submit in the Lord; Love without Bitterness (3:18-19)
